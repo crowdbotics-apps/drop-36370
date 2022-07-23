@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-shopping-cart](screens/shopping-cart)
 - [screen-shipping-address](screens/shipping-address)
 - [screen-QR-scanner](screens/qr-scanner)
+- [screen-profile](screens/profile)
 
 # Getting started: Frontend
 

@@ -18,6 +18,7 @@
     "@react-navigation/native": "^5.9.3",
     "@react-navigation/stack": "^5.14.3",
     "@reduxjs/toolkit": "^1.5.0",
+    "@screens/qr-scanner": "file:./screens/qr-scanner/",
     "@screens/shipping-address": "file:./screens/shipping-address/",
     "@screens/shopping-cart": "file:./screens/shopping-cart/",
     "@screens/social-followers": "file:./screens/social-followers/",

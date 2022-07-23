@@ -12,6 +12,7 @@
     "web-build": "react-app-rewired build && mkdir -p backend/web_build && cp -R build/* backend/web_build"
   },
   "dependencies": {
+    "metalsmith-serve": "*",
     "docker-client": "*",
     "react-native-amap-view": "*",
     "wechatpay": "*",

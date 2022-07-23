@@ -80,6 +80,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-forgot-password](screens/forgot-password)
 - [screen-contact-us](screens/contact-us)
 - [screen-chat-listing](screens/chat-listing)
+- [screen-captcha](screens/captcha)
 
 # Getting started: Frontend
 

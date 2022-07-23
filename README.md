@@ -81,6 +81,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-contact-us](screens/contact-us)
 - [screen-chat-listing](screens/chat-listing)
 - [screen-captcha](screens/captcha)
+- [react-native-app-menu](modules/app-menu)
 
 # Getting started: Frontend
 

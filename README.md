@@ -67,6 +67,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-push-notifications](backend/modules/push-notifications)
 - [screen-store-products-favorites](screens/product-favorite)
 - [screen-payment-subscriptions](screens/payment-subscription)
+- [screen-payment-split](screens/payment-split-screen)
 
 # Getting started: Frontend
 

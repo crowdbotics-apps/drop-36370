@@ -70,6 +70,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-payment-split](screens/payment-split-screen)
 - [screen-store-order-waiting-list](screens/order-waiting-list)
 - [screen-order-summary](screens/order-summary)
+- [screen-order-complete](screens/order-complete)
 
 # Getting started: Frontend
 
